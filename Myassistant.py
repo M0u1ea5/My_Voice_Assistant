@@ -12,7 +12,7 @@ delay=1
 amazon_url='https://www.amazon.in'
 instagram_url='https://www.instagram.com'
 linkedin_url='https://www.linkedin.com/feed'
-gmail_url='https://mail.google.com/mail/u/0/#inbox'
+gmail_url='https://mail.google.com/mail'
 weather_url='https://openweathermap.org/city/1264527'
 
 
