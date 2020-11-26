@@ -1,5 +1,7 @@
 # MY_ASSISTANT
 
+##### These codings is based on python 3.9
+
 ## INSTRUCTIONS
 you need to download various packages.
 Here is the procedure to download all these packages
