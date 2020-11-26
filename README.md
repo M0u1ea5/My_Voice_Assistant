@@ -19,5 +19,5 @@ webbroser           ==> this directs us to web
 datetime            ==> this displays the present time
 speedtest-cli       ==> this checks our ping ,download speed and upload speed
 
-#### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your url in the following wesites
+#### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your program otherwise it not gonna work 
 
