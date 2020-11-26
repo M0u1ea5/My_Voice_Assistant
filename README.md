@@ -1,8 +1,8 @@
 # MY_ASSISTANT
 
 ## INSTRUCTIONS
-you need to download various libraries.
-Here is the procedure to download all these libraries
+you need to download various packages.
+Here is the procedure to download all these packages
 ```python
 //open your command prompt and type the following lines one by one
 pip install SpeechRecognition
@@ -21,3 +21,4 @@ speedtest-cli       ==> this checks our ping ,download speed and upload speed
 
 #### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your program otherwise it not gonna work 
 
+##### If you guys have any queries ping me in https://www.instagram.com/m0u1ea5
