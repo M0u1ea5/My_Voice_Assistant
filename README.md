@@ -13,6 +13,8 @@ pip install webbrowser
 pip install pyaudio
 pip install datetime
 pip install speedtest-cli
+pip install pywhatkit
+pip install wikipedia
 ```
 ### uses of these modules
 - SpeechRecognition   ==> this makes our program to listen
@@ -20,7 +22,9 @@ pip install speedtest-cli
 - webbroser           ==> this directs us to web
 - datetime            ==> this displays the present time
 - speedtest-cli       ==> this checks our ping ,download speed and upload speed
+- pywhatkit           ==> this directs your search to youtube
+- wikipedia           ==> this is similar to wikipedia
 
-#### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your program otherwise it not gonna work 
+#### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your program  has your soial media links otherwise it not gonna work 
 
 ##### If you guys have any queries ping me in https://www.instagram.com/m0u1ea5
